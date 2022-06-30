@@ -10801,7 +10801,7 @@ h6 {
 }
 
 .bg-gallery {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/home1.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/home/h.jpg), no-repeat center center;
     background-size: cover;
 }
 
