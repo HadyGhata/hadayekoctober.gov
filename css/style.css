@@ -5941,6 +5941,10 @@ a.close.disabled {
     height: 100%;
     overflow: hidden;
     outline: 0;
+    text-align: right;
+}
+.modal img{
+    width: 100%;
 }
 
 .modal-dialog {
